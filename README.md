@@ -6,6 +6,8 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+
 <p align="center">
   <img alt="Formulário de matrícula" src="github\Thumbnail.png" width="60%">
 </p>
