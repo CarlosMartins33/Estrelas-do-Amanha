@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário de matrícula" src="github\Thumbnail.png" width="60%">
+  <img alt="Formulário de matrícula" src="github\Thumbnail.png" width="70%">
 </p>
 
 <br>
@@ -32,4 +32,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Acesse Aqui <a href="https://carlosmartins33.github.io/Formulario-de-matricula/">Formulário de matrícula</a>
+Acesse Aqui <a href="https://carlosmartins33.github.io/Estrelas-do-Amanha/">Estrelas do Amanhã</a>
